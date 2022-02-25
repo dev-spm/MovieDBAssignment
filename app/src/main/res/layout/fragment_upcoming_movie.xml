@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <import type="android.view.View" />
+        <variable
+            name="viewModel"
+            type="com.digital14.moviedb.ui.upcomingmovie.MovieViewModel" />
+        <variable
+            name="adapter"
+            type="com.digital14.moviedb.ui.adapter.MovieAdapter" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewUpcomingMovies"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:movielayoutmanager="@{2}"
+            app:setAdapter="@{adapter}"
+            android:orientation = "vertical"
+            app:updateMovies="@{viewModel.movieList}" />
+
+        <ProgressBar
+            android:id="@+id/progressLoad"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:show="@{viewModel.obsevableLoading}" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvErrorFev"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@{viewModel.errorMessage}"
+            android:textColor="#ff0000"
+            android:background="#d3d3d3"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:visibility="@{viewModel.errorMessage.isEmpty() ? View.GONE : View.VISIBLE}"
+            tools:visibility="visible" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
+
