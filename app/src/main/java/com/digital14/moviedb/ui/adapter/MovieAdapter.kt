@@ -6,10 +6,12 @@ import androidx.annotation.NonNull
 import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
+import com.digital14.moviedb.BR
 import com.digital14.moviedb.databinding.ItemviewMovieBinding
 import com.digital14.moviedb.dto.MovieData
-import com.digital14.moviedb.BR
 import com.digital14.moviedb.listeners.MovieClickListener
+import javax.inject.Inject
+import javax.inject.Singleton
 
 /**
  * Created by Sibaprasad Mohanty on 24/02/2022.
@@ -17,17 +19,22 @@ import com.digital14.moviedb.listeners.MovieClickListener
  * siba.x.prasad@gmail.com
  */
 
-class MovieAdapter(
-     private val movieClickListener: MovieClickListener
-) :
+@Singleton
+class MovieAdapter @Inject constructor() :
     RecyclerView.Adapter<MovieAdapter.MovieViewHolder>() {
 
+    private lateinit var movieClickListener: MovieClickListener
+
     private var movieList: MutableList<MovieData> = ArrayList()
+
+    fun setMovieListener(movieClickListener: MovieClickListener) {
+        this.movieClickListener = movieClickListener
+    }
 
     class MovieViewHolder(private val binding: ItemviewMovieBinding) :
         RecyclerView.ViewHolder(binding.root) {
 
-        fun bind(obj: MovieData,movieClickListener : MovieClickListener ) {
+        fun bind(obj: MovieData, movieClickListener: MovieClickListener) {
             binding.setVariable(BR.movie, obj)
             binding.setVariable(BR.listener, movieClickListener)
             binding.executePendingBindings()

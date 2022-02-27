@@ -39,16 +39,16 @@ class MovieViewModel @Inject constructor(
     var movieList = ObservableField<MutableList<MovieData>>()
     var responseStateObserver = MutableLiveData<ResponseState>()
 
-    fun fetchUpcomingMovies(apiKey: String) {
+    fun fetchUpcomingMovies() {
         try {
             if (networkHelper.isNetworkConnected()) {
                 responseStateObserver.value = ResponseState.Loading(true)
                 CoroutineScope(Dispatchers.IO).launch {
                     try {
-                        val data = upcomingMovieRepository.fetchUpcomingMovies(apiKey)
+                        val data = upcomingMovieRepository.fetchUpcomingMovies()
                         onResponseFromServer(data)
                     } catch (e: Exception) {
-                        Log.i("TAG",e.message.toString())
+                        Log.i("TAG", e.message.toString())
                         responseStateObserver.value =
                             ResponseState.Error(Throwable("Error Occurred!"))
                     }
@@ -60,7 +60,6 @@ class MovieViewModel @Inject constructor(
             }
         } catch (exception: Exception) {
             responseStateObserver.value = ResponseState.Error(exception)
-
         }
     }
 
@@ -69,7 +68,6 @@ class MovieViewModel @Inject constructor(
             val moviesResponse: MovieResponse? = response.body()
             moviesResponse?.let { movieRes ->
                 Log.i("TAG", "${movieRes.results}")
-                movieList.set(movieRes.results as MutableList<MovieData>)
                 responseStateObserver.postValue( ResponseState.Success(movieRes.results as MutableList<MovieData>))
             }
         } else {

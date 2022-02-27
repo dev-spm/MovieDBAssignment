@@ -48,7 +48,7 @@ Overview.
 ## What I will do for future release and Missing Part 
 - Create Base module for all the common code(BaseFragment, BaseActivity, BaseInterface...)
 - Create Network Module Separately.
-- Add Progurad Rule
+- Add Proguard Rule
 - Add Gradle Flavour
 - Optimize code and gradle speed by adding gradle script
 - Kotlin Lint, Android studio Lint rule for each commit
@@ -57,12 +57,12 @@ Overview.
 
 ## Screenshots of the Weather Application
 <table>
-<tr>
-<td>
-  <img src="https://github.com/dev-spm/MovieDBAssignment/blob/master/screenshot/screenshot1.png" width="170" height="300" />
- </td>
-<td>
- <img src="https://github.com/dev-spm/MovieDBAssignment/blob/master/screenshot/screenshot2.png" width="170" height="300"/>
-</td>
-</tr>
+    <tr>
+        <td>
+            <img src="https://github.com/dev-spm/MovieDBAssignment/blob/master/screenshot/screenshot1.png" width="170" height="300" />
+        </td>
+        <td>
+            <img src="https://github.com/dev-spm/MovieDBAssignment/blob/master/screenshot/screenshot2.png" width="170" height="300"/>
+        </td>
+    </tr>
 </table> 

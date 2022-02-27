@@ -1,11 +1,12 @@
 package com.digital14.moviedb.ui.upcomingmovie
 
-import org.junit.Assert.*
-
 import org.junit.After
 import org.junit.Before
 import org.junit.Test
+import org.junit.runner.RunWith
+import org.junit.runners.JUnit4
 
+@RunWith(JUnit4::class)
 class MovieViewModelTest {
 
     @Before
@@ -31,4 +32,9 @@ class MovieViewModelTest {
     @Test
     fun onResponseFromServer() {
     }
+
+    @Test
+    fun fetchUserRepositories_positiveResponse() {
+    }
+
 }

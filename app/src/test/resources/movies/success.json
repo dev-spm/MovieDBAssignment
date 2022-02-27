@@ -1,0 +1,399 @@
+{
+  "dates": {
+    "maximum": "2022-03-20",
+    "minimum": "2022-03-05"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg",
+      "genre_ids": [
+        35,
+        16,
+        10751,
+        10402
+      ],
+      "id": 438695,
+      "original_language": "en",
+      "original_title": "Sing 2",
+      "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+      "popularity": 1736.098,
+      "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+      "release_date": "2021-12-01",
+      "title": "Sing 2",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 2018
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ilty8eu65u6vCJpyMva9ele8Qtm.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        10402
+      ],
+      "id": 615904,
+      "original_language": "en",
+      "original_title": "Marry Me",
+      "overview": "Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.",
+      "popularity": 1523.173,
+      "poster_path": "/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+      "release_date": "2022-02-09",
+      "title": "Marry Me",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 190
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 335787,
+      "original_language": "en",
+      "original_title": "Uncharted",
+      "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+      "popularity": 1295.155,
+      "poster_path": "/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg",
+      "release_date": "2022-02-10",
+      "title": "Uncharted",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 481
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1K7jIv3vy6dIXwo0CQNwokLeJc5.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "popularity": 505.846,
+      "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "release_date": "2022-03-01",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iMFDOpE52wbT9GXYTvv4Em6QDhl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 508947,
+      "original_language": "en",
+      "original_title": "Turning Red",
+      "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+      "popularity": 409.403,
+      "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "release_date": "2022-03-10",
+      "title": "Turning Red",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ejgC2lEmuGXiP0A1LvwNezUjNmt.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 406759,
+      "original_language": "en",
+      "original_title": "Moonfall",
+      "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+      "popularity": 360.397,
+      "poster_path": "/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+      "release_date": "2022-02-03",
+      "title": "Moonfall",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 165
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vywOsCtQfZijVLMpde4tqD7Gloi.jpg",
+      "genre_ids": [
+        28,
+        35,
+        99
+      ],
+      "id": 656663,
+      "original_language": "en",
+      "original_title": "Jackass Forever",
+      "overview": "Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.",
+      "popularity": 205.388,
+      "poster_path": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "release_date": "2022-02-01",
+      "title": "Jackass Forever",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 718032,
+      "original_language": "en",
+      "original_title": "Licorice Pizza",
+      "overview": "The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+      "popularity": 136.437,
+      "poster_path": "/jD98aUKHQZNAmrk0wQQ9wmNQPnP.jpg",
+      "release_date": "2021-11-26",
+      "title": "Licorice Pizza",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 371
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fbTxsnJcQwuwzCEu9VEiU9lV75Y.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 645788,
+      "original_language": "en",
+      "original_title": "The Protégé",
+      "overview": "Rescued as a child by the legendary assassin Moody and trained in the family business, Anna is the world’s most skilled contract killer. When Moody, the man who was like a father to her and taught her everything she needs to know about trust and survival, is brutally killed, Anna vows revenge. As she becomes entangled with an enigmatic killer whose attraction to her goes way beyond cat and mouse, their confrontation turns deadly and the loose ends of a life spent killing will weave themselves ever tighter.",
+      "popularity": 166.825,
+      "poster_path": "/o9FY8N5c8CXf22q8s4CmRRjAQJx.jpg",
+      "release_date": "2021-08-19",
+      "title": "The Protégé",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 515
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        9648
+      ],
+      "id": 810693,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦 0",
+      "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+      "popularity": 129.724,
+      "poster_path": "/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg",
+      "release_date": "2021-02-24",
+      "title": "Jujutsu Kaisen 0",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+      "genre_ids": [
+        16,
+        35,
+        28,
+        10751,
+        80
+      ],
+      "id": 629542,
+      "original_language": "en",
+      "original_title": "The Bad Guys",
+      "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+      "popularity": 150.714,
+      "poster_path": "/qT2LvVFPB8Y7O0ER5LcBcNDm07E.jpg",
+      "release_date": "2022-03-17",
+      "title": "The Bad Guys",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8T7SS4jU7TmtqrUr45JgZASCTUP.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 626735,
+      "original_language": "en",
+      "original_title": "Dog",
+      "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+      "popularity": 96.045,
+      "poster_path": "/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+      "release_date": "2022-02-17",
+      "title": "Dog",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 520946,
+      "original_language": "en",
+      "original_title": "100% Wolf",
+      "overview": "Freddy Lupin, heir to a proud family line of werewolves, is in for a shock when on his 14th birthday his first 'warfing' goes awry, turning him into a ferocious poodle. The pack elders give Freddy until the next moonrise to prove he has the heart of a wolf, or risk being cast out forever. With the help of an unlikely ally in a streetwise stray named Batty, Freddy must prove he's 100% Wolf.",
+      "popularity": 99.369,
+      "poster_path": "/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg",
+      "release_date": "2020-06-26",
+      "title": "100% Wolf",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 219
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w81qHqr1CdbdRco8jpmu6lXMqyk.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 766798,
+      "original_language": "es",
+      "original_title": "Madres paralelas",
+      "overview": "Two unmarried women who have become pregnant by accident and are about to give birth meet in a hospital room: Janis, middle-aged, unrepentant and happy; Ana, a teenager, remorseful and frightened.",
+      "popularity": 92.687,
+      "poster_path": "/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg",
+      "release_date": "2021-10-08",
+      "title": "Parallel Mothers",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 367
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e8JXiXBrjlPICy0v16TPylmXSr7.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 573680,
+      "original_language": "en",
+      "original_title": "The Banishing",
+      "overview": "In the 1930s, a young reverend and his family are forced to confront their worst fears when they discover their new home holds a horrifying secret.",
+      "popularity": 84.557,
+      "poster_path": "/xD9mc8JCVXA8T8u4Od7qOUBuGH4.jpg",
+      "release_date": "2021-04-29",
+      "title": "The Banishing",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 56
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fdE7pXaGyaFI39dy3Fg59FSauNr.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 716612,
+      "original_language": "en",
+      "original_title": "Spencer",
+      "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
+      "popularity": 103.564,
+      "poster_path": "/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg",
+      "release_date": "2021-11-04",
+      "title": "Spencer",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 554
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 777270,
+      "original_language": "en",
+      "original_title": "Belfast",
+      "overview": "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life.",
+      "popularity": 90.835,
+      "poster_path": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "release_date": "2021-11-11",
+      "title": "Belfast",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 262
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 554230,
+      "original_language": "en",
+      "original_title": "The Lost Daughter",
+      "overview": "A woman's seaside vacation takes a dark turn when her obsession with a young mother forces her to confront secrets from her past.",
+      "popularity": 75.991,
+      "poster_path": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+      "release_date": "2021-12-16",
+      "title": "The Lost Daughter",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 381
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vYAuEi9NO23JeutE1REn6RkZUTj.jpg",
+      "genre_ids": [
+        12,
+        10751
+      ],
+      "id": 780382,
+      "original_language": "en",
+      "original_title": "Le Loup et le Lion",
+      "overview": "After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of the majestic Canadian forest. Whilst there, she rescues two helpless cubs: a wolf and a lion. They forge an inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey across Canada to be reunited with one another and Alma once more.",
+      "popularity": 62.395,
+      "poster_path": "/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg",
+      "release_date": "2021-10-13",
+      "title": "The Wolf and the Lion",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 823625,
+      "original_language": "en",
+      "original_title": "Blacklight",
+      "overview": "Travis Block, a shadowy Government agent who specializes in removing operatives whose covers have been exposed, uncovers a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
+      "popularity": 79.772,
+      "poster_path": "/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+      "release_date": "2022-02-10",
+      "title": "Blacklight",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 15
+    }
+  ],
+  "total_pages": 13,
+  "total_results": 247
+}
